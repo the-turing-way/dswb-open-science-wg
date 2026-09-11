@@ -2,7 +2,11 @@
 
 *The Data Science Without Borders project hosts an Open Science and Capacity Building Working Group for researchers in African countries.*  
 
-Say hi [on Discord](https://discord.com/invite/9Mx2fMjS4g). Subscribe to our [community calendar](https://bit.ly/dswb-community-calendar).
+~Say hi [on Discord](https://discord.com/invite/9Mx2fMjS4g)~. We disbanded Discord for our community.
+
+If you'd like to be involved with the DSWB project, stay up to date with DSWB webinars, research, and data science resources from across Africa, subscribe to our newsletter: https://mailchi.mp/osponow/dswb-newsletter. 
+
+To be aware of meetings, you can also add our [community calendar](https://bit.ly/dswb-community-calendar).
 
 ## Background
 
